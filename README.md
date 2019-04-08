@@ -1,5 +1,5 @@
 # Node.js Hello World
-
+# [![Build Status](https://dev.azure.com/ravibatt/myFirstAzureDevOps/_apis/build/status/ravibatt.MyLearning?branchName=master)](https://dev.azure.com/ravibatt/myFirstAzureDevOps/_build/latest?definitionId=2&branchName=master)
 This sample demonstrates a tiny Hello World node.js app for [App Service Web App](https://docs.microsoft.com/azure/app-service-web).
 
 # Contributing
